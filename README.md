@@ -8,8 +8,6 @@ ChineseAntiword,针对中文词语的反义词查询接口．在当前的中文�
 
 
 # 测试样例
-    s = '自然语言处理是皇冠上的一颗明珠'
-    handler = ChineseAntiword()
     word = '天才'
     antiwords:['庸才', '庸人', '蠢材']
     word = '快乐'
